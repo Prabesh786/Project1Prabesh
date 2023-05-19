@@ -5,3 +5,6 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/Prabesh786/Project1Prabesh.git
 git push -u origin main
+222222222222222222222222222222
+git remote set-url origin git@github.com:username/projectname.git
+git remote set-url origin git@github.com:Prabesh786/Project1Prabesh.git
